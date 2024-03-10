@@ -1,0 +1,22 @@
+
+body {
+    background-color: #d1aa5c;
+    background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+#header a:hover {
+    color: #F2C557 !important;
+}
+
+.selected {
+    color: #F2C557 !important;
+}
+
+#add_form label {
+    color: #000000;
+}
+
+#add_form input {
+    color: #F2EA57;
+}
